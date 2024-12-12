@@ -1,0 +1,19 @@
+AniManga Generator:
+1. Open App
+2. Choose genre
+3. Click Generate
+4. Generates a general summary of the animanga
+
+
+Future:
+- Generate a plotline?
+
+How to do:
+- Machine Learning
+    - Anilist API
+    - sklearn, transformers
+- Flask Backend
+- React Frontend
+
+source animange-generator_env/Scripts/activate
+pip install tensorflow scikit-learn pandas numpy pyanilist
